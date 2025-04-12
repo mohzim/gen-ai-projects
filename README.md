@@ -1,2 +1,2 @@
 # gen-ai-projects
-Collection of projects using GenAI models
+Collection of projects using GenAI models of various vedors. 
